@@ -89,5 +89,7 @@
 # git add <file>
 # git commit -am 'comment'
 # git log
+# git checkout commit_hash
+# git checkout -b develop
 
 # 1 'a' -> 'b'
