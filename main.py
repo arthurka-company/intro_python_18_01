@@ -88,5 +88,6 @@
 # git status
 # git add <file>
 # git commit -am 'comment'
+# git log
 
 # 1 'a' -> 'b'
