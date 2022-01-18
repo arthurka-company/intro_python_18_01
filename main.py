@@ -91,5 +91,8 @@
 # git log
 # git checkout commit_hash
 # git checkout -b develop
+# git remote add origin
+# git push origin master - выгрузка изменений в удаленный репозиторий
+# git pull origin master - загрузка изменений из удаленного репозитория
 
 # 1 'a' -> 'b'
